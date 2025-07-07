@@ -62,3 +62,13 @@ I'm a motivated and detail-oriented individual currently completed **Computer Sc
 
 Thanks for visiting my profile!
 
+---
+
+## 📈 GitHub Activity & Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alichoker27&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alichoker27&layout=compact&theme=tokyonight)
+
+![Visitors](https://komarev.com/ghpvc/?username=alichoker27&style=flat-square)
+
+
